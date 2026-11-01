@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+
+# never published: instructor-side material and student work
+instructor_private/
+submissions/
